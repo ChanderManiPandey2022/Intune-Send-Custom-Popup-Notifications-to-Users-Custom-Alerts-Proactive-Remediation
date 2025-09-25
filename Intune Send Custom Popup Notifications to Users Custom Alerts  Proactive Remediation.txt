@@ -1,5 +1,7 @@
 Intune Send Custom Popup Notifications to Users Custom Alerts  Proactive Remediation
 
-Script Link : -
+Script Link : -    https://github.com/ChanderManiPandey2022/Intune-Send-Custom-Popup-Notifications-to-Users-Custom-Alerts-Proactive-Remediation/releases/download/v1.0/Intune.Send.C
+ustom.Popup.Notifications.to.Users.Custom.Alerts.Proactive.Remediation.zip
+
 
 
